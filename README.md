@@ -1,4 +1,4 @@
-dai17153, GIANTSIOS KONSTANTINOS
+GIANTSIOS KONSTANTINOS,
 
 This is a project for the course of  Computer Netwroks. 
 
